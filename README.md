@@ -1,4 +1,4 @@
-# Birthdays-proyect-freeCodeCamp
+# React-Babel - Birthdays - freeCodeCamp
 Proyecto birthdays complete - Curso freeCodeCamp - Jhon Smilga
 
 Curso youtube - Code 15 React Projects
